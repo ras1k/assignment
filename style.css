@@ -24,9 +24,12 @@ h1{
 .orange{
     color: orange;
 }
-.red{
+#mid{
     text-align: center;
 }
+.btn{
+    margin-top: -20px;
+}  
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(teal, cyan);
@@ -81,4 +84,22 @@ img{
 }
 .teal{
     padding-right: 300px;
+}
+.red{
+    text-align: center;
+    padding-bottom: 50px;
+    background-color: rgb(245, 212, 232);
+    border-radius: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+} 
+#mid{
+    text-align: center;
+}
+.leg{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    background-color: black;
+    min-height: 20vh;
 }
